@@ -1,0 +1,2 @@
+# MyAppPolicy
+all policy
